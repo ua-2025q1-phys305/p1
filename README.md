@@ -7,6 +7,9 @@ You must form teams of 3 to 6 people.
 Presentations will be scheduled for March 4th or 6th, and the final
 code and documentation are due by **Thursday March 6th, 11:59pm**
 (Arizona time).
+Code submission is handled by GitHub classroom.
+Please use [this link](https://classroom.github.com/a/02xVMVb2) to
+join a project.
 
 The included file "ideas.yaml" is a compilation of proposed ideas,
 covering areas that are covered in the first half of PHYS305.
