@@ -12,12 +12,17 @@ The included file "ideas.yaml" is a compilation of proposed ideas,
 covering areas that are covered in the first half of PHYS305.
 You may pick one of these ideas and find other students who have
 common interests to form team.
+Examples of previous projects inlcude
+[Barnes-Hut simulation](https://github.com/uarizona-2022spring-phys105a/AG-Project-2),
+[3-body problem](https://github.com/uarizona-2022spring-phys105a/adelawad-Three-Body-Problem-Project-2), and
+[exoplanet statistics](https://github.com/ua-2024q3-astr513/ASTRSTATS513_final).
 
 A formal write-up is not required, but you must:
 
-1. Submit well-documented source code with clear comments.
-   Provide docstrings or a README that explains how to run your
-   project and discusses any dependencies.
+1. Submit well-documented source code with clear comments through
+   GitHub classroom.
+   Provide docstrings and update this README to explain how to run
+   your project and discusses any dependencies.
 
 2. Deliver a short (about 10 minutes) presentation on March 4th or
    6th, using either slides (standard presentation) or a Jupyter
